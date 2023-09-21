@@ -8,19 +8,13 @@
       <img src="https://komarev.com/ghpvc/?username=FlavioLimas&label=Profile%20views&color=0e75b6&style=flat" />
     </a>
     <a href="https://github.com/FlavioLimas/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/FlavioLimas/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/FlavioLimas/github-readme-stats/branch/master/graph/badge.svg" />
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/FlavioLimas/github-readme-stats" />
     </a>
     <a href="https://github.com/FlavioLimas/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/FlavioLimas/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/FlavioLimas/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/FlavioLimas/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/FlavioLimas/github-readme-stats/badge" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/FlavioLimas/github-readme-stats?color=0088ff" />
     </a>
     <br>
     <br>
